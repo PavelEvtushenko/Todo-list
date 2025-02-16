@@ -23,3 +23,4 @@ func (h *Handler) deleteItem(c *gin.Context) {
 }
 
 // 8 страница
+// создаем ендпоинты для итем внутри лист
